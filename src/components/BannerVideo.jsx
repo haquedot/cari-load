@@ -14,7 +14,6 @@ function BannerVideo() {
                     <h1>Move with Us, Grow with Us</h1>
                     <p>Connecting loads and trucks for a smarter logistics solution.</p>
                 </div>
-
             </div>
         </div>
     );
