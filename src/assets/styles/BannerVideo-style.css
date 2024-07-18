@@ -4,7 +4,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 285px;
+    height: 185px;
     overflow: hidden;
 }
 
@@ -39,6 +39,11 @@
 
 
 @media (min-width: 1024px) {
+    .banner-video {
+        height: 285px;
+
+    }
+
     .overlay-content h1 {
         font-size: 48px;
     }

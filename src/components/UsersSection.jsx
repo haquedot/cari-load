@@ -17,13 +17,13 @@ function UserSection() {
                     <div className="col-lg-6 m-auto">
                         <div className="d-flex align-items-center flex-column">
                             <div className="p-4 user-card">
-                                <i class="bi bi-person-fill"></i>
+                                <i className="bi bi-person-fill"></i>
                                 <h3>Load Owners</h3>
                                 <p>Easily find available trucks to transport your loads, anywhere and anytime.</p>
                             </div>
 
                             <div className="p-4 user-card">
-                                <i class="bi bi-person-fill"></i>
+                                <i className="bi bi-person-fill"></i>
                                 <h3>Load Owners</h3>
                                 <p>Easily find available trucks to transport your loads, anywhere and anytime.</p>
                             </div>
