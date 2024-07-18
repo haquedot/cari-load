@@ -40,7 +40,7 @@ const Navbar = () => {
                     <div className="offcanvas offcanvas-start" tabIndex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                         <div className="offcanvas-header">
                             <h5 className="offcanvas-title" id="offcanvasNavbarLabel">
-                                CariLoad {/* <img src={logo} className='brand-logo' alt="Brand Logo" /> */}
+                            <img src={logo} className='brand-logo' alt="Brand Logo" />
                             </h5>
 
                             <button type="button" className="btn-close bg-transparent border-0 ms-auto" data-bs-dismiss="offcanvas" aria-label="Close">
