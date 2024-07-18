@@ -9,8 +9,12 @@
 // import BookingProcess from "../components/BookingProcess";
 // import Footer from "../components/Footer";
 
+import BannerVideo from "../components/BannerVideo";
+import Features from "../components/Features";
+import Footer from "../components/Footer";
 import HeroSection from "../components/HeroSection"
 import Navbar from "../components/Navbar"
+import UserSection from "../components/UsersSection";
 
 
 function Home() {
@@ -18,7 +22,11 @@ function Home() {
     return (
         <>
             <Navbar />
-            <HeroSection/>
+            <HeroSection />
+            <Features />
+            <BannerVideo />
+            <UserSection />
+            <Footer />
         </>
     )
 }

@@ -5,17 +5,15 @@ const HeroSection = () => {
 
     return (
         <>
-            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-indicators">
-                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+            <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
+                <div className="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active"
                         aria-current="true" aria-label="Slide 1"></button>
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
                         aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
-                        aria-label="Slide 3"></button>
                 </div>
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
+                <div className="carousel-inner">
+                    <div className="carousel-item active">
                         <div className="hero-section hero-1">
                             <div className="container">
                                 <div className="row">
@@ -39,7 +37,7 @@ const HeroSection = () => {
                         </div>
                     </div>
 
-                    <div class="carousel-item">
+                    <div className="carousel-item">
                         <div className="hero-section hero-2">
                             <div className="container">
                                 <div className="d-block text-center">
