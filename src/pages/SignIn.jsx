@@ -23,7 +23,7 @@ function SignIn() {
                         </div>
                         <div className="w-100 d-flex align-content-center justify-content-between">
                             <Link to='/cari-load/signup' className='m-0'>Create new account</Link>
-                            <button type="submit" className="signIn-btn">Sign In</button>
+                            <button type="submit" className="signIn-btn">Login</button>
                         </div>
                     </form>
                 </div>
