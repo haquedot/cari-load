@@ -5,7 +5,7 @@ function Contact() {
 
     return (
         <>
-            <Navbar />
+            <Navbar bgColor="#004a57"/>
             <h1>Contact</h1>
         </>
     )
